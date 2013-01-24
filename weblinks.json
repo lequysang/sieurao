@@ -1,0 +1,15 @@
+{"weblinks":[
+{"id":"1","title":"twitter","imageLink":"http://localhost/sieurao_pics/twitter.png","webLink":"https://mobile.twitter.com"},
+{"id":"2","title":"facebook","imageLink":"http://localhost/sieurao_pics/facebook.png","webLink":"http://m.facebook.com"},
+{"id":"3","title":"youtube","imageLink":"http://localhost/sieurao_pics/youtube.png","webLink":"http://m.youtube.com"},
+{"id":"4","title":"bongdaso","imageLink":"http://localhost/sieurao_pics/bongdaso.png","webLink":"http://bongdaso.com"},
+{"id":"5","title":"vnnet","imageLink":"http://localhost/sieurao_pics/vietnamnet.png","webLink":"http://m.vietnamnet.vn"},
+{"id":"6","title":"ngôi sao","imageLink":"http://localhost/sieurao_pics/ngoisao.png","webLink":"http://m.ngoisao.net"},
+{"id":"7","title":"lao động","imageLink":"http://localhost/sieurao_pics/laodong.png","webLink":"http://m.laodong.com.vn"},
+{"id":"8","title":"thanh niên","imageLink":"http://localhost/sieurao_pics/thanhnien.png","webLink":"http://m.thanhnien.com.vn"},
+{"id":"9","title":"dân trí","imageLink":"http://localhost/sieurao_pics/dantri.png","webLink":"http://m.dantri.com.vn"},
+{"id":"10","title":"báo mới","imageLink":"http://localhost/sieurao_pics/baomoi.png","webLink":"http://m.baomoi.com"},
+{"id":"11","title":"tuổi trẻ","imageLink":"http://localhost/sieurao_pics/tuoitre.png","webLink":"http://m.tuoitre.vn"},
+{"id":"12","title":"báo 24h","imageLink":"http://localhost/sieurao_pics/24h.png","webLink":"http://m.24h.com.vn"},
+{"id":"13","title":"vnexpress","imageLink":"http://localhost/sieurao_pics/vnexpress.png","webLink":"http://m.vnexpress.net"}
+]}
