@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>twitter</key>
+	<array>
+		<string>http://m.twitter.com</string>
+		<string>https://raw.github.com/lequysang/sieurao/master/sieurao_pics/twitter.png</string>
+	</array>
+	<key>facebook</key>
+	<array>
+		<string>http://m.facebook.com</string>
+		<string>https://raw.github.com/lequysang/sieurao/master/sieurao_pics/facebook.png</string>
+	</array>
+	<key>youtube</key>
+	<array>
+		<string>http://m.youtube.com</string>
+		<string>https://raw.github.com/lequysang/sieurao/master/sieurao_pics/youtube.png</string>
+	</array>
+</dict>
+</plist>
